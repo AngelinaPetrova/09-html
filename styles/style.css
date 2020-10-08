@@ -1,0 +1,27 @@
+
+body{
+    background-color: #1e2939;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.text{
+    font-family: 'Cardo', serif;
+    color: white;
+}
+
+ .rightimg  {
+    float: right;
+    margin: 7px 0 7px 7px;
+ }
+ .item{
+    color:#7876e4;
+ }
+ .black{
+     color: white;
+ }
+ .contacts-link{
+     color: white;
+ }
+
